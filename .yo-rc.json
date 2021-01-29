@@ -38,6 +38,9 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en"],
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "catalog-2021-bogdan",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
