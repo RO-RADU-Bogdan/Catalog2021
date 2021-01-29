@@ -37,7 +37,7 @@
     "otherModules": [],
     "enableTranslation": true,
     "nativeLanguage": "en",
-    "languages": ["en"],
+    "languages": ["en", "ro"],
     "blueprints": [],
     "herokuAppName": "catalog-2021-bogdan",
     "herokuDeployType": "git",
